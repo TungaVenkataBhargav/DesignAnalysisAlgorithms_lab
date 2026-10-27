@@ -1,52 +1,27 @@
 # Design and Analysis of Algorithms (DAA) Lab
 
-This repository contains the lab programs and implementations completed as part of my **2nd-year B.Tech in Artificial Intelligence and Machine Learning (AIML)** curriculum.
+A centralized repository for the Design and Analysis of Algorithms (DAA) Laboratory. Contains clean implementations, time/space complexity evaluations, and performance graphs for core algorithmic paradigms including Divide &amp; Conquer, Greedy, Dynamic Programming, and Graph Traversals.
 
-The experiments focus on designing, implementing, and analyzing algorithms for solving different computational and real-world problems.
+# DAA Lab – RGUKT Ongole
+**Name:** Aluri Narasimha    **ID:** O230510     **Branch/Section:** AIML
+**Course:** Design and Analysis of Algorithms Lab
+27
+**Academic year:** 2026-
+| Week | Topic | Programs | Time complexity |
+|------|-------|----------|-----------------|
+| 1 | Sorting | heap_sort.c,merge_sort,quick_sort.c | O(n log n),O(n log n),O(n log n) |
+| 2 | Dynamic Programming | warshalls.c | O(n log n) |
+| 3 | Dynamic Programming | knapsack.c | O(n . W) |
+| 4 | Dynamic Programming | all_pairs_shortest_path.c | 𝑂(𝑉3)|
+| 5 | Dynamic Programming | TSP.c | O(n!) |
+| 6 | Minimum Spanning Tree | krushkals_algorithm.c,prims_algorithm.c | O(E log V),O(E log V) |        
+| 7 | Dynamic Programming | single_source.c | O(E log V) |
+| 8 | Backtracking | sumofsubsets.c  | O(2^n) |
+| 9 | Branch and Bound | puzzle.c |O(b^d) |
+| 10 | Backtracking or Branch Bound | queens.c | O(N!) |
+## How to run
 
-## 🧪 Lab Experiments
 
-1. **Sorting Algorithms**
-   - Quick Sort
-   - Merge Sort
-   - Heap Sort
 
-2. **Warshall's Algorithms**
-   - Topological Ordering
-   - Transitive Closure
-
-3. **0/1 Knapsack Problem**
-   - Dynamic Programming
-
-4. **All-Pairs Shortest Path**
-   - Floyd's Algorithm
-
-5. **Travelling Salesman Problem (TSP)**
-
-6. **Minimum Spanning Tree**
-   - Prim's Algorithm
-   - Kruskal's Algorithm
-
-7. **Single-Source Shortest Path**
-   - Connected Components
-   - Other Graph Algorithms
-
-8. **Sum of Subsets Problem**
-
-9. **Sudoku Solver**
-
-10. **N-Queens Problem**
-    - Backtracking
-
-## 🎯 Course Focus
-
-- Algorithm Design and Analysis
-- Problem Solving
-- Graph Algorithms
-- Dynamic Programming
-- Greedy Techniques
-- Backtracking
-- Sorting and Searching
-- Optimization Problems
 
 This repository serves as a record of my practical learning and implementation of core **Design and Analysis of Algorithms** concepts.
